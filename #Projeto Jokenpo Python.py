@@ -24,6 +24,8 @@ escolha = int(input('Qual sua escolha?\n[0] Jogar\n[1] Saiba mais sobre o jogo\n
 
 time.sleep (1)
 
+print('-'*20) #linhas
+
 if escolha == 0:
     print('''[0] PEDRA
 [1] PAPEL
